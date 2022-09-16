@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Netra Mittal! You can call me Mo. 
 - 👀 I’m interested in data science, data analytics, and the role of data in healthcare/ public health.
-- 🌱 I’ve studied Economics and Mathematics as an undergrad and will be pursuing a master's in Biostatistics from Columbia.
+- 🌱 I’ve studied Economics and Mathematics as an undergrad and hope to be pursuing a master's in Biostatistics or Data Science in the future.
 - 📫 How to reach me: netramittal@gmail.com
 
 <!---
